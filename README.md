@@ -20,6 +20,12 @@
 
 ---
 
+<p align="center">
+  <img width="800" alt="GHOST Scanner CLI Menu" src="images/cli_menu.png" />
+  <br><br>
+  <img width="800" alt="GHOST Scanner Dashboard" src="images/dashboard.png" />
+</p>
+
 ## 📖 Overview
 
 **GHOST Scanner** is an advanced, automated web pentesting and reconnaissance toolkit. Designed to strike silently and surface critical vulnerabilities, it seamlessly integrates industry-standard OWASP methodologies into a single, cohesive workflow.
