@@ -20,17 +20,15 @@
 
 ---
 
-<p align="center">
-  <img width="800" alt="GHOST Scanner CLI Menu" src="images/cli_menu.png" />
-  <br><br>
-  <img width="800" alt="GHOST Scanner Dashboard" src="images/dashboard.png" />
-</p>
-
 ## 📖 Overview
 
 **GHOST Scanner** is an advanced, automated web pentesting and reconnaissance toolkit. Designed to strike silently and surface critical vulnerabilities, it seamlessly integrates industry-standard OWASP methodologies into a single, cohesive workflow.
 
 From stealthy reconnaissance and directory fuzzing to deep source code analysis and targeted Active Directory enumeration, GHOST Scanner equips bug bounty hunters and red teamers with the ultimate arsenal.
+
+<p align="center">
+  <img width="800" alt="GHOST Scanner CLI Menu" src="images/cli_menu.png" />
+</p>
 
 ## ⚡ Core Capabilities
 
@@ -144,6 +142,10 @@ GHOST Scanner doesn't just find vulnerabilities; it presents them beautifully. O
 - **SaaS-Style HTML Dashboard**: A dark-themed interactive report featuring live search, severity filters, browser PDF export, and severity-based KPI cards.
 - **Markdown & TXT**: Clean, readable summaries perfect for GitBook, Obsidian, or client deliverables.
 - **JSON Export**: Raw structured data for easy ingestion into other pipeline tools.
+
+<p align="center">
+  <img width="800" alt="GHOST Scanner Dashboard Report" src="images/dashboard.png" />
+</p>
 
 ## 🤝 Contributing
 
