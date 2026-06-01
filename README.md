@@ -51,8 +51,8 @@ From stealthy reconnaissance and directory fuzzing to deep source code analysis 
 Get GHOST Scanner up and running in seconds:
 
 ```bash
-git clone https://github.com/0xgh0stri13y/GHOST-Scanner.git
-cd GHOST-Scanner
+git clone https://github.com/0xgh0stri13y/GHOST-SCANNER.git
+cd GHOST-SCANNER
 
 # Setup virtual environment
 python3 -m venv .venv
